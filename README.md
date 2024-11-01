@@ -30,6 +30,8 @@ and instructors with the tools they need to succeed.</p>
 - For Frontend (Login Page)
    - Html
    - CSS
+   - js
+   - Spring Boot
 
 <h2 id="started">🚀 Getting started</h2>
 
@@ -39,6 +41,8 @@ Here you describe how to run your project locally
 
 - Html
 - CSS
+- JDK
+- Spring Boot Initializer
 - Github
 
 <h3>Cloning</h3>
@@ -52,7 +56,7 @@ https://github.com/Varun-madnawat/Virtual-Classroom.git
 How to start your project
 
 ```bash
-google-chrome index.html
+After installing all the Pre requisites run index.html file and in browser search localhost:8080
 ```
 
 <h3>Documentations that might help</h3>
