@@ -55,9 +55,8 @@ https://github.com/Varun-madnawat/Virtual-Classroom.git
 
 How to start your project
 
-```bash
-After installing all the Pre requisites run index.html file and in browser search localhost:8080
-```
+After installing all the Pre requisites run <a href = "https://github.com/Varun-madnawat/Virtual-Classroom/blob/main/guvi/src/main/resources/static/index.html">index.html</a> file and in browser search localhost:8080
+
 
 <h3>Documentations that might help</h3>
 
