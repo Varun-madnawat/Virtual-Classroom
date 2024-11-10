@@ -31,7 +31,9 @@ and instructors with the tools they need to succeed.</p>
    - Html
    - CSS
    - js
-   - Spring Boot
+   - Spring Maven
+   - Dao
+   - Sql
 
 <h2 id="started">🚀 Getting started</h2>
 
